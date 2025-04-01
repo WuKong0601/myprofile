@@ -1,6 +1,6 @@
 # Hi there, I'm Huynh Le Quoc Cong! 👋
 
-## 🎮 Game Development Fresher | Software Developer
+## 🎮 Game Developer | Software Developer
 
 🎓 Final-year student majoring in Information Systems at University of Information Technology, Vietnam National University, Ho Chi Minh City. Passionate about game development, software engineering, and creating innovative digital experiences.
 
